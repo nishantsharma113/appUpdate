@@ -3,10 +3,10 @@
   <channel>
     <title>For unit test only</title>
     <item>
-        <title>Version 2.0</title>
+        <title>Version 5.0</title>
         <description>desc Версия</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
+        <pubDate>Fri, 16 Jun 2023 15:20:11 +0000</pubDate>
+        <enclosure url="https://github.com/nishantsharma113/app/blob/main/superbase_app.zip" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
